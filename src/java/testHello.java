@@ -6,6 +6,7 @@ public class testHello {
         System.out.print("hellow git");
         System.out.print("zbb");
         System.out.print("ldd");
+        System.out.print("ddd");
         System.out.print("zzz");
     }
 }
