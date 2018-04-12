@@ -4,5 +4,6 @@
 public class testHello {
     public static void main(String[] args){
         System.out.print("hellow git");
+        System.out.print("zbb");
     }
 }
